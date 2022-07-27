@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sh4mp
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science, data analysis
 - 🌱 I’m currently learning sql and r
 - 📫 How to reach me sh4mpi@gmail.com 
 
